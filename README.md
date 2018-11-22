@@ -1,2 +1,2 @@
 # LearningGitAndJupyterNotebook2018
-I am trying to learn these systems. Future aim is to do datamining
+I am trying to learn these systems. Future aim is to do datamining for the Social sciences.
